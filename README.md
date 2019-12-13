@@ -26,7 +26,7 @@
 
 ?: What type of join returns all rows from the left table, and the matched rows from the right table?
 
-( ) Inner Join ( ) Left [Outer] Join (X) Right Join ( ) Full Join
+( ) Inner Join (X) Left [Outer] Join ( ) Right Join ( ) Full Join
 
 ?: What type of join returns all rows when there is at least one match in **both** tables?
 
